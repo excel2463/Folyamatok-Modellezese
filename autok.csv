@@ -1,0 +1,6 @@
+auto_id,tipus,erkezes,hatarido,prioritas,hegesztes_ido,festes_ido,szereles_ido
+1,Sedan_Alap,0,180,3,30,40,20
+2,SUV_Luxus,10,200,1,45,60,40
+3,Sport_Velo,25,120,1,20,50,30
+4,Sedan_Alap,40,250,3,30,40,20
+5,SUV_Eco,60,300,2,40,45,25
