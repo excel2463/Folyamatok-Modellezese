@@ -1,6 +1,11 @@
-auto_id,tipus,erkezes,hatarido,prioritas,hegesztes_ido,festes_ido,szereles_ido
-1,Sedan_Alap,0,180,3,30,40,20
-2,SUV_Luxus,10,200,1,45,60,40
-3,Sport_Velo,25,120,1,20,50,30
-4,Sedan_Alap,40,250,3,30,40,20
-5,SUV_Eco,60,300,2,40,45,25
+auto_id,tipus,erkezes,prioritas,hatarido,hegesztes_ido,festes_ido,szereles_ido
+A001,Sedan,480,1,780,30,45,20
+A002,SUV,490,2,900,50,60,35
+A003,Kombi,500,1,820,20,30,25
+A004,Coupe,510,3,1100,60,80,40
+A005,Sedan,520,2,880,35,50,30
+A006,Furgon,530,1,850,25,40,20
+A007,SUV,540,3,1300,70,90,50
+A008,Kombi,550,2,980,40,55,35
+A009,Sedan,560,1,900,30,45,25
+A010,Coupe,570,3,1200,55,70,45
